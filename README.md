@@ -1,2 +1,2 @@
-# 5.3---Projet-Int-grateur
+# 5.3 - Projet-Intégrateur
 Projet Intégrateur 1A - IMT Mines Alès 
